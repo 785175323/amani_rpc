@@ -1,0 +1,9 @@
+/target/
+/.settings
+.project
+.classpath
+.springBeans
+/src/main/resources/rebel.xml
+/.springBeans
+/catalina.base_IS_UNDEFINED/
+.idea/
